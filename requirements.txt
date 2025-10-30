@@ -1,0 +1,8 @@
+gradio
+easyocr
+transformers
+torch
+sentencepiece
+opencv-python
+pillow
+numpy
